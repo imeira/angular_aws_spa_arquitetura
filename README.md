@@ -1,7 +1,11 @@
 # Documentação da Arquitetura AWS: Angular SPA + Microserviços ECS Fargate
 
-**Autor:** Manus AI
+**Autor:** Igor Meira
 **Data:** 26/08/2025
+
+## 0. Desenho de Arquitetura
+
+![arquitetura_aws_diagrama.png](arquitetura_aws_diagrama.png)
 
 ## 1. Visão Geral da Solução
 
